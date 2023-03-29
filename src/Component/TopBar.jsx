@@ -10,7 +10,7 @@ export default function TopBar() {
           </div>
 
           <span className="span">
-            Restaurant St, Delicious City,Brampton,ON
+            1975,Cottrelle Blvd,Brampton,ON
           </span>
         </address>
 
@@ -21,10 +21,10 @@ export default function TopBar() {
             <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
           </div>
 
-          <span className="span">Daily : 8.00 am to 10.00 pm</span>
+          <span className="span">Daily : 5:00 pm to 5:00 am</span>
         </div>
 
-        <a href="tel:+11234567890" className="topbar-item link">
+        <a href="tel:+1437-987-8659" className="topbar-item link">
           <div className="icon">
             <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
           </div>
@@ -34,12 +34,12 @@ export default function TopBar() {
 
         <div className="separator"></div>
 
-        <a href="mailto:booking@restaurant.com" className="topbar-item link">
+        <a href="mailto:amanhas4700@gmail.com" className="topbar-item link">
           <div className="icon">
             <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
           </div>
 
-          <span className="span">booking@restaurant.com</span>
+          <span className="span">amanhas4700@gmail.com</span>
         </a>
       </div>
     </div>

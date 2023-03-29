@@ -66,14 +66,14 @@ export default function Header() {
             <p class="headline-1 navbar-title">Visit Us</p>
 
             <address class="body-4">
-              Restaurant St, Delicious City, <br />
+              1975,Cottrelle Blvd <br />
               Brampton,ON
             </address>
 
-            <p class="body-4 navbar-text">Open: 9.30 am - 2.30pm</p>
+            <p class="body-4 navbar-text">Open: 5pm - 5am</p>
 
-            <a href="mailto:booking@grilli.com" class="body-4 sidebar-link">
-              booking@grilli.com
+            <a href="amanhas4700@gmail.com" class="body-4 sidebar-link">
+              amanhas4700@gmail.com
             </a>
 
             <div class="separator"></div>
@@ -81,10 +81,10 @@ export default function Header() {
             <p class="contact-label">Booking Request</p>
 
             <a
-              href="tel:+88123123456"
+              href="tel:+1 437-987-8659"
               class="body-1 contact-number hover-underline"
             >
-              +88-123-123456
+              +1 437-987-8659
             </a>
           </div>
         </nav>
