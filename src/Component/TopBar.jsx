@@ -24,12 +24,12 @@ export default function TopBar() {
           <span className="span">Daily : 5:00 pm to 5:00 am</span>
         </div>
 
-        <a href="tel:+1437-987-8659" className="topbar-item link">
+        <a href="tel:+1 437-987-8659" className="topbar-item link">
           <div className="icon">
             <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
           </div>
 
-          <span className="span">+1 123 456 7890</span>
+          <span className="span">+1 437-987-8659</span>
         </a>
 
         <div className="separator"></div>
