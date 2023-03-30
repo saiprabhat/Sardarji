@@ -78,19 +78,17 @@ export default function Menu() {
                                 cursor: "pointer",
                               }}
                             >
-                              {details.split(":")[0]}
+                              {details?.name}
                             </a>
                           </h3>
 
-                          {/* <span class="badge label-1">
-                            {details.split(":")[1]}
-                          </span> */}
+                          {details.special ? (
+                            <span class="badge label-1">Special</span>
+                          ) : null}
 
-                          <span class="span title-2">
-                            {details.split("##")[1]}
-                          </span>
+                          <span class="span title-2">{details.price}</span>
                         </div>
-                        <p class="card-text label-1">{details.split(":")[1]}</p>
+                        <p class="card-text label-1">{details.des}</p>
                       </div>
                     </div>
                   </li>
