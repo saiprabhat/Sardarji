@@ -1,12 +1,23 @@
 import React from "react";
-import companyLogo from "../images/logo.svg";
+import companyLogo from "../images/logoo3.png";
 
 export default function Header() {
   return (
     <header class="header" data-header>
       <div class="container">
-        <a href="#" class="logo">
-          <p style={{ fontSize: "32px" }}>Sardar Ji</p>
+        <a
+          href="#"
+          class="logo"
+          style={{
+            display: "flex",
+            flexDirection: "column",
+          }}
+        >
+          <img
+            src={companyLogo}
+            style={{ height: "60px", paddingBottom: "10px" }}
+          />
+          {/* <p style={{ fontSize: "32px" }}>Sardar Ji</p> */}
         </a>
 
         <nav class="navbar" data-navbar>
@@ -14,9 +25,9 @@ export default function Header() {
             <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
           </button>
 
-          {/* <a href="#" class="logo">
+          <a href="#" class="logo">
             <p>Sardar Ji</p>
-          </a> */}
+          </a>
 
           <ul class="navbar-list">
             {/* <li class="navbar-item">
