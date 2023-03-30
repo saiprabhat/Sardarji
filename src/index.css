@@ -239,7 +239,7 @@ body.nav-active {
 .headline-2,
 .title-1,
 .title-2,
-.title-3,
+/* .title-3, */
 .title-4 {
   color: var(--white);
   font-family: var(--fontFamily-forum);
@@ -475,7 +475,6 @@ body.nav-active {
 .grid-list {
   display: grid;
   gap: 40px;
-  justify-content: center;
 }
 
 .hover\:shine {
@@ -1051,6 +1050,8 @@ body.nav-active {
   padding-block: 30px;
   margin-block-end: 26px;
   z-index: 1;
+  display: flex;
+  justify-content: center;
 }
 
 .service-card .has-before::before {
@@ -1795,7 +1796,7 @@ textarea.input-field {
   }
 
   .menu-card .span::before {
-    content: "";
+    /* content: ""; */
     height: 6px;
     flex-grow: 1;
     border-block: 1px solid var(--white-alpha-20);

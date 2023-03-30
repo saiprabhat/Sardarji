@@ -4,7 +4,7 @@ export const dict = {
       name: "Chaat Papri",
       des: null,
       price: "$9",
-      special: true,
+      // special: true,
     },
     {
       name: "Golgappa Shots",
