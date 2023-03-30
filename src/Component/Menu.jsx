@@ -86,9 +86,9 @@ export default function Menu() {
                             <span class="badge label-1">Special</span>
                           ) : null}
 
-                          <span class="span title-2">{details.price}</span>
+                          <p class="card-text label-1">{details.des}</p>
                         </div>
-                        <p class="card-text label-1">{details.des}</p>
+                        <span class="span title-2">{details.price}</span>
                       </div>
                     </div>
                   </li>
