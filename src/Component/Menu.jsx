@@ -73,8 +73,8 @@ export default function Menu() {
                             <a
                               class="card-title"
                               style={{
-                                fontSize: "28px",
-                                lineHeight: "40px",
+                                fontSize: "20px",
+                                lineHeight: "8px",
                                 cursor: "pointer",
                               }}
                             >
