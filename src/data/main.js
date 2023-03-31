@@ -81,6 +81,11 @@ export const dict = {
       des: null,
       price: "$5",
     },
+    {
+      name: "Crispy Samosa",
+      des: null,
+      price: "$1.99",
+    },
   ],
 
   Tandoori_Non_Veg: [
@@ -500,11 +505,7 @@ export const dict = {
       des: "2 Pc",
       price: "$6",
     },
-    {
-      name: "Homemade Kulfi",
-      des: null,
-      price: "$4",
-    },
+   
     {
       name: "Gulab Jamun",
       des: "2 pc",
@@ -516,20 +517,11 @@ export const dict = {
       price: "$4",
     },
     {
-      name: "Dessert Combo",
-      des: null,
-      price: "$6",
-    },
-    {
       name: "Gajrella",
       des: null,
       price: "$4",
     },
-    {
-      name: "Stick Kulfi",
-      des: "Malai/Paan/Mango/Pictachio",
-      price: "$4",
-    },
+    
   ],
   Beverages: [],
   Premium_Cocktails: [
