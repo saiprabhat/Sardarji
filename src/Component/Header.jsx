@@ -1,5 +1,5 @@
 import React from "react";
-import companyLogo from "../images/logoo3.png";
+import companyLogo from "../images/logoo-3inverted.png";
 
 export default function Header() {
   return (
@@ -11,11 +11,13 @@ export default function Header() {
           style={{
             display: "flex",
             flexDirection: "column",
+            textAlign:"Center"
           }}
         >
           <img
+            
             src={companyLogo}
-            style={{ height: "60px", paddingBottom: "10px" }}
+            style={{ height: "130px", paddingBottom: "10px" }}
           />
           {/* <p style={{ fontSize: "32px" }}>Sardar Ji</p> */}
         </a>

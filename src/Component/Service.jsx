@@ -24,40 +24,9 @@ export default function Service() {
         </p>
 
         <ul className="grid-list">
-          <li>
-            <div className="service-card">
-              <a href="#Veg_Curries" className="has-before hover:shine">
-                <figure
-                  className="card-banner img-holder"
-                  style={{ width: 285, height: 336 }}
-                >
-                  <img
-                    src={serviceOne}
-                    width="285"
-                    height="336"
-                    loading="lazy"
-                    alt="Breakfast"
-                    className="img-cover"
-                  />
-                </figure>
-              </a>
-
-              <div className="card-content">
-                <h3 className="title-4 card-title">
-                  <a href="#Veg_Curries">Dinner</a>
-                </h3>
-
-                <a
-                  href="#Veg_Curries"
-                  className="btn-text hover-underline label-2"
-                >
-                  View Menu
-                </a>
-              </div>
-            </div>
-          </li>
-
-          <li>
+  
+          
+        <li>
             <div className="service-card">
               <a href="#menu" className="has-before hover:shine">
                 <figure
@@ -119,6 +88,43 @@ export default function Service() {
               </div>
             </div>
           </li>
+
+          <li>
+            <div className="service-card">
+              <a href="#Veg_Curries" className="has-before hover:shine">
+                <figure
+                  className="card-banner img-holder"
+                  style={{ width: 285, height: 336 }}
+                >
+                  <img
+                    src={serviceOne}
+                    width="285"
+                    height="336"
+                    loading="lazy"
+                    alt="Breakfast"
+                    className="img-cover"
+                  />
+                </figure>
+              </a>
+
+              <div className="card-content">
+                <h3 className="title-4 card-title">
+                  <a href="#Veg_Curries">Dinner</a>
+                </h3>
+
+                <a
+                  href="#Veg_Curries"
+                  className="btn-text hover-underline label-2"
+                >
+                  View Menu
+                </a>
+              </div>
+            </div>
+          </li>
+
+
+   
+       
         </ul>
 
         <img
