@@ -560,27 +560,27 @@ export const dict = {
     {
       name: "Mango Nuts",
       des: null,
-      price: "$19.99",
+      price: "$9.99",
     },
     {
       name: "Kitkat",
       des: null,
-      price: "$19.99",
+      price: "$9.99",
     },
     {
       name: "Oreo",
       des: null,
-      price: "$19.99",
+      price: "$9.99",
     },
     {
       name: "Rasmalai",
       des: null,
-      price: "$19.99",
+      price: "$9.99",
     },
     {
       name: "Cold Coffee",
       des: null,
-      price: "$19.99",
+      price: "$9.99",
     },
   ],
   Lassi: [

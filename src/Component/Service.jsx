@@ -101,7 +101,7 @@ export default function Service() {
                     width="285"
                     height="336"
                     loading="lazy"
-                    alt="Breakfast"
+                    alt="Dinner"
                     className="img-cover"
                   />
                 </figure>

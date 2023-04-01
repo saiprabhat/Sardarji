@@ -17,7 +17,7 @@ export default function Header() {
           <img
             
             src={companyLogo}
-            style={{ height: "130px", paddingBottom: "10px" }}
+            style={{ height: "125px", paddingBottom: "1.5px",paddingTop:"0.5px", }}
           />
           {/* <p style={{ fontSize: "32px" }}>Sardar Ji</p> */}
         </a>

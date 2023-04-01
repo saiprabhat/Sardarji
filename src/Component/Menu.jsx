@@ -28,7 +28,7 @@ export default function Menu() {
               >
                 <figure
                   class="card-banner img-holder"
-                  style={{ width: 300, height: 300 }}
+                  style={{ width: 250, height: 300 }}
                 >
                   <img
                     src={drinks}
