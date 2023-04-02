@@ -31,12 +31,12 @@ export default function Service() {
               <a href="#menu" className="has-before hover:shine">
                 <figure
                   className="card-banner img-holder"
-                  style={{ width: 285, height: 336 }}
+                  style={{ width: 200, height: 240 }}
                 >
                   <img
                     src={serviceTwo}
-                    width="285"
-                    height="336"
+                    width="200"
+                    height="240"
                     loading="lazy"
                     alt="Appetizers"
                     className="img-cover"
@@ -61,12 +61,12 @@ export default function Service() {
               <a href="#Beverages" className="has-before hover:shine">
                 <figure
                   className="card-banner img-holder"
-                  style={{ width: 285, height: 336 }}
+                  style={{ width: 200, height: 240 }}
                 >
                   <img
                     src={serviceThree}
-                    width="285"
-                    height="336"
+                    width="200"
+                    height="240"
                     loading="lazy"
                     alt="Drinks"
                     className="img-cover"
@@ -94,12 +94,12 @@ export default function Service() {
               <a href="#Veg_Curries" className="has-before hover:shine">
                 <figure
                   className="card-banner img-holder"
-                  style={{ width: 285, height: 336 }}
+                  style={{ width: 200, height: 240 }}
                 >
                   <img
                     src={serviceOne}
-                    width="285"
-                    height="336"
+                    width="200"
+                    height="240"
                     loading="lazy"
                     alt="Dinner"
                     className="img-cover"

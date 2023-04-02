@@ -381,8 +381,8 @@ export const dict = {
 
   Our_Specials: [
     {
-      name: "Roll with Pop (Chicken /Lamb/Fish/Paneer/Soya Chaap)",
-      des: null,
+      name: "Roll with Pop",
+      des: "(Chicken /Lamb/Fish/Paneer/Soya Chaap)",
       price: "$12",
     },
     {
