@@ -101,7 +101,7 @@ export default function Service() {
                     width="200"
                     height="240"
                     loading="lazy"
-                    alt="Dinner"
+                    alt="Mains"
                     className="img-cover"
                   />
                 </figure>
@@ -109,7 +109,7 @@ export default function Service() {
 
               <div className="card-content">
                 <h3 className="title-4 card-title">
-                  <a href="#Veg_Curries">Dinner</a>
+                  <a href="#Veg_Curries">Mains</a>
                 </h3>
 
                 <a
