@@ -471,10 +471,14 @@ body.nav-active {
 .bg-black-10 {
   background-color: var(--smoky-black-2);
 }
-
+/* .menu .grid-list {
+  gap: 55px 200px;
+  margin-block-end: 55px;
+} */
 .grid-list {
   display: grid;
-  gap: 40px 100px;
+  gap: 20px 100px;
+  /* margin-block-end: 55px; */
 }
 
 .hover\:shine {

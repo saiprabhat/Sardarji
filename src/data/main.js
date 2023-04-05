@@ -1,5 +1,7 @@
 export const dict = {
+  
   Appetizers: [
+  
     {
       name: "Chaat Papri",
       des: null,
@@ -43,7 +45,7 @@ export const dict = {
     },
     {
       name: "Soup",
-      des: "(Manchow/Hot&Sour/Dal Sweet Corn/Chicken/Veggie)",
+      des: "(Manchow/Hot&Sour/Dal/Sweet Corn/Chicken/Veggie)",
       price: "$10",
     },
     {
@@ -68,7 +70,7 @@ export const dict = {
     },
     {
       name: "Chilli",
-      des: "(Lamb/Egg/Soya Chaap/Gobi/Potato/Fish/Mushroom)",
+      des: "(Lamb/Egg/Soya-Chaap/Gobi/Potato/Fish/Mushroom)",
       price: "$16",
     },
     {

@@ -73,8 +73,8 @@ export default function Menu() {
                             <a
                               class="card-title"
                               style={{
-                                fontSize: "20px",
-                                lineHeight: "8px",
+                                fontSize: "18px",
+                                lineHeight: "6px",
                                 cursor: "pointer",
                               }}
                             >
@@ -95,17 +95,16 @@ export default function Menu() {
                 );
               })}
             </ul>
-            {/* <!-- 
-              <p class="menu-text text-center">
+         
+              {/* <p class="menu-text text-center">
                 During winter daily from <span class="span">7:00 pm</span> to
                 <span class="span">9:00 pm</span>
-              </p> -->
-              <!-- 
+              </p>
               <a href="#" class="btn btn-primary">
                 <span class="text text-1">View All Menu</span>
         
                 <span class="text text-2" aria-hidden="true">View All Menu</span>
-              </a> --> */}
+              </a>  */}
 
             {/* <img
                   src="./assets/images/shape-5.png"
