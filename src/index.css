@@ -153,6 +153,7 @@ code {
 *::after {
   margin: 0;
   padding: 0;
+  padding-top: 0;
   box-sizing: border-box;
 }
 
@@ -478,7 +479,7 @@ body.nav-active {
 .grid-list {
   display: grid;
   gap: 20px 100px;
-  /* margin-block-end: 55px; */
+  margin-block-end: 55px;
 }
 
 .hover\:shine {

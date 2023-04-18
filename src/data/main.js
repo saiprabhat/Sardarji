@@ -856,6 +856,11 @@ export const dict = {
       price: "$6.99/$11.99",
     },
     {
+      name: "Ciroc Peach",
+      des: "1oz/2oz",
+      price: "$6.99/$11.99",
+    },
+    {
       name: "Grey Goose",
       des: "1oz/2oz",
       price: "$6.99/$11.99",
@@ -910,7 +915,44 @@ export const dict = {
     {
       name: "Don Julio 70",
       des: "1oz",
-      price: "$9.99",
+      price: "$11.99",
     },
   ],
+  Beer: [
+    {
+      name: "Budweiser",
+      des: null,
+      price:"$7.99"
+    },
+    {
+      name: "Corona",
+      des: null,
+      price:"$7.99"
+    },
+    {
+      name: "Heinken",
+      des: null,
+      price:"$7.99"
+    },
+    {
+      name: "KingFisher",
+      des: null,
+      price:"$7.99"
+    },
+    {
+      name: "Molson Canadian",
+      des: null,
+      price:"$7.99"
+    },
+    {
+      name: "Smirnoff",
+      des: null,
+      price:"$7.99"
+    },
+    {
+      name: "Stella",
+      des: null,
+      price:"$7.99"
+    },
+  ]
 };
