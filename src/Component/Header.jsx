@@ -83,10 +83,10 @@ export default function Header() {
               Brampton,ON
             </address>
 
-            <p class="body-4 navbar-text">Open: 5pm - 5am</p>
+            <p class="body-4 navbar-text">Open: 24 Hours</p>
 
-            <a href="amanhas4700@gmail.com" class="body-4 sidebar-link">
-              amanhas4700@gmail.com
+            <a href="preetrandhawa1001@gmail.com" class="body-4 sidebar-link">
+            preetrandhawa1001@gmail.com
             </a>
 
             <div class="separator"></div>
@@ -94,10 +94,10 @@ export default function Header() {
             <p class="contact-label">Booking Request</p>
 
             <a
-              href="tel:+1 437-987-8659"
+              href="tel:+1 416-432-4088"
               class="body-1 contact-number hover-underline"
             >
-              +1 437-987-8659
+              +1 416-432-4088
             </a>
           </div>
         </nav>
