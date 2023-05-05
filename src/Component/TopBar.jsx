@@ -24,22 +24,22 @@ export default function TopBar() {
           <span className="span">Daily : 24 Hours</span>
         </div>
 
-        <a href="tel:+1 437-987-8659" className="topbar-item link">
+        <a href="tel:+1 647-786-7611" className="topbar-item link">
           <div className="icon">
             <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
           </div>
 
-          <span className="span">+1 437-987-8659</span>
+          <span className="span">+1 647-786-7611</span>
         </a>
 
         <div className="separator"></div>
 
-        <a href="mailto:preetrandhawa1001@gmail.com" className="topbar-item link">
+        <a href="mailto:mann.kulvinder@yahoo.in" className="topbar-item link">
           <div className="icon">
             <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
           </div>
 
-          <span className="span">preetrandhawa1001@gmail.com</span>
+          <span className="span">mann.kulvinder@yahoo.in</span>
         </a>
       </div>
     </div>
