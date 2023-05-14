@@ -82,6 +82,14 @@ export default function Header() {
               1975,Cottrelle Blvd <br />
               Brampton,ON
             </address>
+            <address class="body-4">
+              1975,Cottrelle Blvd <br />
+              Brampton,ON
+            </address>
+            <address class="body-4">
+              1975,Cottrelle Blvd <br />
+              Brampton,ON
+            </address>
 
             <p class="body-4 navbar-text">Open: 24 Hours</p>
 
