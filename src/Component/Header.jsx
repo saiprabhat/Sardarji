@@ -88,18 +88,40 @@ export default function Header() {
             >
               +1 905-459-3939
             </a>
+
+          
             <address class="body-4">
               170 Bovaird Dr W Unit#16<br />
               Brampton,ON
             </address>
+            <a
+              href="tel:+1 905-216-2040"
+              class="body-1 contact-number hover-underline"
+            >
+              +1 905-216-2040
+            </a>
+
             <address class="body-4">
               130 Father Tobin Rd <br />
               Brampton,ON
             </address>
+            <a
+              href="tel:+1 905-494-1636"
+              class="body-1 contact-number hover-underline"
+            >
+              +1 905-494-1936
+            </a>
+
             <address class="body-4">
               1975,Cottrelle Blvd <br />
               Brampton,ON
             </address>
+            <a
+              href="tel:+1 905-459-3939"
+              class="body-1 contact-number hover-underline"
+            >
+              +1 905-913-2002
+            </a>
 
             <p class="body-4 navbar-text">Open: 24 Hours</p>
 
@@ -111,12 +133,12 @@ export default function Header() {
 
             <p class="contact-label">Booking Request</p>
 
-            <a
+            {/* <a
               href="tel:+1 905-459-3939"
               class="body-1 contact-number hover-underline"
             >
               +1 905-459-3939
-            </a>
+            </a> */}
           </div>
         </nav>
 
