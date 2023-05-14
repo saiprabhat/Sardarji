@@ -90,7 +90,7 @@ export default function Header() {
               +1 905-459-3939
             </a>
 
-            <p>
+            <p class="contact-label">
             <address class="body-4">
               170 Bovaird Dr W Unit#16<br />
               Brampton,ON
