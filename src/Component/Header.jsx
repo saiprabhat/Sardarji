@@ -90,7 +90,7 @@ export default function Header() {
               +1 905-459-3939
             </a>
 
-            <div>
+            <p>
             <address class="body-4">
               170 Bovaird Dr W Unit#16<br />
               Brampton,ON
@@ -101,7 +101,7 @@ export default function Header() {
             >
               +1 905-216-2040
               </a>
-              </div>
+              </p>
 
             <address class="body-4">
               130 Father Tobin Rd <br />
