@@ -78,52 +78,68 @@ export default function Header() {
           <div class="text-center">
             <p class="headline-1 navbar-title">Locations to Serve You</p>
 
+            <p class="contact-label">
             <address class="body-4">
               King Tandoori , 107 Kannedy Rd S <br />
               Brampton,ON 
             </address>
-            
+            </p>
+            <p class="extra-space">
             <a
               href="tel:+1 905-459-3939"
               class="body-1 contact-number hover-underline"
             >
               +1 905-459-3939
-            </a>
+
+              </a>
+              </p>
 
             <p class="contact-label">
             <address class="body-4">
               170 Bovaird Dr W Unit#16<br />
               Brampton,ON
-            </address>
+              </address>
+              </p>
+            <p class="extra-space">
             <a
               href="tel:+1 905-216-2040"
               class="body-1 contact-number hover-underline"
             >
               +1 905-216-2040
+
               </a>
               </p>
-
+             
+            <p class="contact-label">
             <address class="body-4">
               130 Father Tobin Rd <br />
               Brampton,ON
-            </address>
+              </address>
+            </p>
+            <p class="extra-space">
             <a
               href="tel:+1 905-494-1636"
               class="body-1 contact-number hover-underline"
             >
               +1 905-494-1936
             </a>
+            </p>
 
+            <p class="contact-label">
             <address class="body-4">
               1975,Cottrelle Blvd <br />
               Brampton,ON
             </address>
+            </p>
+
+            <p class="extra-space">
             <a
               href="tel:+1 905-459-3939"
               class="body-1 contact-number hover-underline"
             >
               +1 905-913-2002
-            </a>
+              </a>
+              </p>
 
             <p class="body-4 navbar-text">Open: 24 Hours</p>
 
