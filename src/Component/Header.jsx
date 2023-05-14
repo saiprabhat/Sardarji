@@ -76,14 +76,24 @@ export default function Header() {
           </ul>
 
           <div class="text-center">
-            <p class="headline-1 navbar-title">Visit Us</p>
+            <p class="headline-1 navbar-title">Locations to Serve You</p>
 
             <address class="body-4">
-              1975,Cottrelle Blvd <br />
+              King Tandoori , 107 Kannedy Rd S <br />
+              Brampton,ON
+            </address>
+            <a
+              href="tel:+1 905-459-3939"
+              class="body-1 contact-number hover-underline"
+            >
+              +1 905-459-3939
+            </a>
+            <address class="body-4">
+              170 Bovaird Dr W Unit#16<br />
               Brampton,ON
             </address>
             <address class="body-4">
-              1975,Cottrelle Blvd <br />
+              130 Father Tobin Rd <br />
               Brampton,ON
             </address>
             <address class="body-4">
