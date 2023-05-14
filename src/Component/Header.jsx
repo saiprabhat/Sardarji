@@ -80,8 +80,9 @@ export default function Header() {
 
             <address class="body-4">
               King Tandoori , 107 Kannedy Rd S <br />
-              Brampton,ON
+              Brampton,ON <p />
             </address>
+            
             <a
               href="tel:+1 905-459-3939"
               class="body-1 contact-number hover-underline"
