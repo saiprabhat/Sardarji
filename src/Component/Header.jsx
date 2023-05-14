@@ -80,7 +80,7 @@ export default function Header() {
 
             <address class="body-4">
               King Tandoori , 107 Kannedy Rd S <br />
-              Brampton,ON <p />
+              Brampton,ON 
             </address>
             
             <a
@@ -90,7 +90,7 @@ export default function Header() {
               +1 905-459-3939
             </a>
 
-          
+            <div>
             <address class="body-4">
               170 Bovaird Dr W Unit#16<br />
               Brampton,ON
@@ -100,7 +100,8 @@ export default function Header() {
               class="body-1 contact-number hover-underline"
             >
               +1 905-216-2040
-            </a>
+              </a>
+              </div>
 
             <address class="body-4">
               130 Father Tobin Rd <br />
