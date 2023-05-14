@@ -85,8 +85,8 @@ export default function Header() {
 
             <p class="body-4 navbar-text">Open: 24 Hours</p>
 
-            <a href="preetrandhawa1001@gmail.com" class="body-4 sidebar-link">
-            preetrandhawa1001@gmail.com
+            <a href="mann.kulvinder@yahoo.in" class="body-4 sidebar-link">
+            mann.kulvinder@yahoo.in
             </a>
 
             <div class="separator"></div>
@@ -94,10 +94,10 @@ export default function Header() {
             <p class="contact-label">Booking Request</p>
 
             <a
-              href="tel:+1 416-432-4088"
+              href="tel:+1 905-459-3939"
               class="body-1 contact-number hover-underline"
             >
-              +1 416-432-4088
+              +1 905-459-3939
             </a>
           </div>
         </nav>
