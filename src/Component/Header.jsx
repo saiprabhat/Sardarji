@@ -93,6 +93,23 @@ export default function Header() {
 
               </a>
               </p>
+
+
+            <p class="contact-label">
+            <address class="body-4">
+            15 Brisdale Dr, Brampton, ON L7A 0S9<br />
+              Brampton,ON
+              </address>
+              </p>
+            <p class="extra-space">
+            <a
+              href="tel:+1 905-216-2040"
+              class="body-1 contact-number hover-underline"
+            >
+              +1 905-846-7800
+
+              </a>
+              </p>
              
             <p class="contact-label">
             <address class="body-4">
