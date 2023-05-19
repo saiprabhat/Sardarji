@@ -103,7 +103,7 @@ export default function Header() {
               </p>
             <p class="extra-space">
             <a
-              href="tel:+1 905-216-2040"
+              href="tel:+1 905-846-7800"
               class="body-1 contact-number hover-underline"
             >
               +1 905-846-7800
@@ -122,7 +122,7 @@ export default function Header() {
               href="tel:+1 905-494-1636"
               class="body-1 contact-number hover-underline"
             >
-              +1 905-494-1936
+              +1 905-494-1636
             </a>
             </p>
 
@@ -135,7 +135,7 @@ export default function Header() {
 
             <p class="extra-space">
             <a
-              href="tel:+1 905-459-3939"
+              href="tel:+1 905-459-2002"
               class="body-1 contact-number hover-underline"
             >
               +1 905-913-2002
