@@ -5,7 +5,7 @@ export const dict = {
     {
       name: "Chaat Papri",
       des: null,
-      price: "$9",
+      price: "10",
       // special: true,
     },
     {
