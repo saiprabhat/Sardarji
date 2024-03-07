@@ -78,69 +78,70 @@ export default function Header() {
           <div class="text-center">
             <p class="headline-1 navbar-title">Locations to Serve You</p>
 
-            <p class="contact-label">
-            <address class="body-4">
+          <div className="info-box">
+            <address className="body-4">
               170 Bovaird Dr W Unit#16<br />
               Brampton,ON
               </address>
-              </p>
-            <p class="extra-space">
             <a
               href="tel:+1 905-216-2040"
               class="body-1 contact-number hover-underline"
             >
               +1 905-216-2040
-
               </a>
-              </p>
+              <a href="mailto:sardarjibar170@gmail.com" className="body-4 sidebar-link">
+              sardarjibar170@gmail.com
+            </a>
+              </div>
 
-
-            <p class="contact-label">
-            <address class="body-4">
-            15 Brisdale Dr, Brampton, ON L7A 0S9<br />
+              <div className="info-box">
+            <address className="body-4">
+              15 Brisdale Dr, Brampton, ON L7A 0S9<br />
               Brampton,ON
               </address>
-              </p>
-            <p class="extra-space">
             <a
-              href="tel:+1 905-846-7800"
+              href="tel:++1 905-846-7800"
               class="body-1 contact-number hover-underline"
             >
               +1 905-846-7800
-
               </a>
-              </p>
-             
-            <p class="contact-label">
-            <address class="body-4">
-              130 Father Tobin Rd <br />
+              <a href="mailto:sj.brisdale@gmail.com" className="body-4 sidebar-link">
+              sj.brisdale@gmail.com
+            </a>
+            </div> 
+              
+              <div className="info-box">
+            <address className="body-4">
+            130 FatherTobin Rd<br />
               Brampton,ON
               </address>
-            </p>
-            <p class="extra-space">
             <a
               href="tel:+1 905-494-1636"
               class="body-1 contact-number hover-underline"
             >
               +1 905-494-1636
+              </a>
+              <a href="mailto:sj.fathertobin@gmail.com" className="body-4 sidebar-link">
+              sj.fathertobin@gmail.com
             </a>
-            </p>
-
-            <p class="contact-label">
-            <address class="body-4">
-              1975,Cottrelle Blvd <br />
+              </div> 
+              
+              <div className="info-box">
+            <address className="body-4">
+            1975,Cottrelle Blvd<br />
               Brampton,ON
-            </address>
-            </p>
-
-            <p class="extra-space">
+              </address>
             <a
               href="tel:+1 905-459-2002"
               class="body-1 contact-number hover-underline"
             >
-              +1 905-913-2002
+              +1 905-459-2002
               </a>
-              </p>
+              <a href="mailto:sj.mcvean@gmail.com" className="body-4 sidebar-link">
+              sj.mcvean@gmail.com
+            </a>
+              </div>
+
 
             <p class="body-4 navbar-text">Open: 24 Hours</p>
 
