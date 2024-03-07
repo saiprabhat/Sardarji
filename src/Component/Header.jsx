@@ -129,7 +129,7 @@ export default function Header() {
               
               <div className="info-box">
             <address className="body-4">
-            1975,Cottrelle Blvd<br />
+            1975,Cottrelle Blvd <br />
               Brampton,ON
               </address>
             <a
