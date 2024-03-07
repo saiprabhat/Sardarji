@@ -24,6 +24,12 @@
   color: white;
 }
 
+.info-box {
+  border: 1px solid #000; /* Solid black border */
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
 .App-link {
   color: #61dafb;
 }
