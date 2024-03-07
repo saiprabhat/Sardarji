@@ -78,6 +78,7 @@ export default function Header() {
 
           <div class="text-center">
             <p class="headline-1 navbar-title">Locations to Serve You</p>
+            <p class="extra-space"></p>
 
           <div className="info-box">
             <address className="body-4">
